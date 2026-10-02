@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "block",
+  "repo": "apple-codesign-action",
+  "versions": [
+    {
+      "commit": "679535d1ab7c5a7c18e6f9afcba3464512cc3dde",
+      "parsed_at": "2026-10-02T11:21:44.112792+00:00",
+      "tag": "main",
+      "filetree": "filetree/679535d1ab7c5a7c18e6f9afcba3464512cc3dde.nq.gz",
+      "blobs": [
+        "blob/862ee3c28647e7a58801a75236855c269c1448ae.nq.gz",
+        "blob/f2a0eb61e1c891230acdc19a5257bc591f9169e7.nq.gz",
+        "blob/9582fc588754f78d9875691a3bd5e674295436b3.nq.gz",
+        "blob/91c192550c57de20dfd1dbd5ce4963b649f48ff4.nq.gz",
+        "blob/dd9e767b88b7cbf106420fcf3369c7fdcbf534f1.nq.gz",
+        "blob/6bccf43368fd7c96d9c659562a5142b8b8cb98a1.nq.gz",
+        "blob/6d46ac4b3f8aa525e74e65ab9097fedeeb3a1035.nq.gz",
+        "blob/2c299ab1afeabd9badef71da8fc05ce9c322d2ab.nq.gz",
+        "blob/daa37e807b5c58d06e749479b0aa3973f405a298.nq.gz",
+        "blob/918189b59bfb7477813979e4fd07994c401db64b.nq.gz",
+        "blob/e15e11c514d62cd8206c10c757f10eac2d8d4fe6.nq.gz",
+        "blob/0222afec06ed4d3cb46211affdb1f2ccf2f31ecd.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz"
+}

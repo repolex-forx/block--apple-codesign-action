@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/block/apple-codesign-action/commit/679535d1ab7c5a7c18e6f9afcba3464512cc3dde",
       "git:hexsha": "679535d1ab7c5a7c18e6f9afcba3464512cc3dde",
-      "repolex:parseStatus": "enrich_complete",
-      "git:tagName": "v1.1.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v1.1.0",
+      "repolex:parsedAt": "2026-10-02T11:25:23.906910+00:00"
     },
     {
       "@id": "https://repolex.ai/r/block/apple-codesign-action/commit/d53588d52108ca1709e7744802bf8b59cca8e0dc",
